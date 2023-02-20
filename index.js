@@ -79,3 +79,23 @@ function SetBlack(){
   black.classList.add('SelectedProductBackground');
   white.classList.remove('SelectedProductBackground');
 }
+
+function ToFacebook(){
+  window.location.href = "https://www.facebook.com/Bose";
+}
+
+function ToTwitter(){
+  window.location.href = "https://twitter.com/Bose";
+}
+
+function ToYoutube(){
+  window.location.href = "https://www.youtube.com/user/Bose";
+}
+
+function ToInstagram(){
+  window.location.href = "https://www.instagram.com/bose/";
+}
+
+function ToGitHubRepo(){
+  window.location.href = "https://github.com/Francesco99020/Bose-Headphones-Mock-Landing-page";
+}
